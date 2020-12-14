@@ -1,4 +1,4 @@
-baseURL = "http://paulshilling.github.io/"
+baseURL = "http://sigma400.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Sigma 400 Owners Site"
 theme = "ananke"
