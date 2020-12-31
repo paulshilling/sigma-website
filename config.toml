@@ -2,3 +2,6 @@ baseURL = "http://sigma400.com/"
 languageCode = "en-us"
 title = "Sigma 400 Owners Site"
 theme = "ananke"
+featured_image = "/images/intemperance2.jpg"
+canonifyURLs = true
+relativeURLs = true

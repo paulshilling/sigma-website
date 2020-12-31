@@ -3,7 +3,7 @@
 	url = https://github.com/budparr/gohugo-theme-ananke.git
 [submodule "public"]
 	path = public
-	url = https://github.com/paulshilling/paulshilling.github.io.git
+	url = https://github.com/paulshilling/paulshilling.github.io
 [submodule "paulshilling.github.io"]
 	path = paulshilling.github.io
 	url = https://github.com/paulshilling/paulshilling.github.io
